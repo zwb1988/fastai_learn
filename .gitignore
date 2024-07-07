@@ -1,0 +1,5 @@
+.venv/
+.ipynb_checkpoints/
+*.pkl
+ch2/bears/
+ch2_proj_soft_drinks/soft_drinks/
